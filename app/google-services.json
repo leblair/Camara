@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195795532997",
+    "project_id": "camara-31e35",
+    "storage_bucket": "camara-31e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195795532997:android:753e4bba263b015a4dc4ac",
+        "android_client_info": {
+          "package_name": "com.example.camara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195795532997-ub82bqr76v8fj52v9fmgv1cm621ad6v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUAWwBX2uv-gVoVtkMkTwO8hHpkLNv1-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195795532997-ub82bqr76v8fj52v9fmgv1cm621ad6v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
